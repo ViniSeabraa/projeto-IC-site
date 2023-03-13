@@ -1,0 +1,69 @@
+body {
+    color: white;
+    background: linear-gradient(black, darkblue);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    font-family: fantasy;
+}
+
+.links {
+    text-decoration: none;
+    color: blue;
+}
+
+.imagem {
+    text-align: center;
+    width: 33vh;
+    height: 40vh;
+    border-radius: 50%;
+    border: 1vh solid black;
+}
+
+.nome{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6vh;
+    color: greenyellow;
+    text-align: center;
+}
+
+.portfolio{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4.5vh;
+    color: greenyellow;
+}
+
+.corefonte {
+    color: greenyellow;
+    font-size: 3.5vh;
+}
+
+.emcima {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+.imgcontatos{
+    width: 17vh;
+}
+
+.textocontato{
+    text-decoration: none;
+    color: blue;
+}
+
+.contato{
+    color: greenyellow;
+    font-size: 3vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    color: white;
+}
